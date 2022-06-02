@@ -53,6 +53,10 @@ y'a bcq des classes : active, checked, foxes, before, aftre, firstline, firstlet
   
   
 # 7.passed props and adding attributes :
- 
+ + add attribute ema mch fl props f styled function
+ > button.styles.js >
+
+
+# 8. animations :
 # ------
 yarn start
