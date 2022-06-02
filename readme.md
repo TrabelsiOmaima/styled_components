@@ -66,6 +66,7 @@ app.js
 <ThemeProvider>
 
 # 10. global style :
+fnct : create global style
 
 
 > src > styles.css / copppppy paste ml app.css/logo
