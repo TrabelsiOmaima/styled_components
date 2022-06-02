@@ -32,7 +32,20 @@
 
 
 # 5.extending styles :
++ props is one way to adapte styled components
++ extending is second way to do this
+ 
+> Button.styles.js //
+  export const FancyButton = styled(StyledButton)`
+  ...
+`
 
+> Button.js // import + export {FancyButton};
+
+> app.js // a hors ,ancre tag    
+<FancyButton as='a' >Fancy Button</FancyButton>
+
+# 6. Pseudo classes :
 
 # ------
 yarn start
