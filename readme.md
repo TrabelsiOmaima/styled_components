@@ -62,7 +62,10 @@ y'a bcq des classes : active, checked, foxes, before, aftre, firstline, firstlet
 + from..  styles.css to .. button.styles.js / mm fazet ema reusibale w flexible
 
 # 9. theming :
+app.js
+<ThemeProvider>
 
+# 10. global style :
 
 
 > src > styles.css / copppppy paste ml app.css/logo

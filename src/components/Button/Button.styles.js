@@ -59,5 +59,12 @@ export const AnimatedLogo = styled.img`
 `
 
 
+//9. theming
+export const DarkButton = styled(StyledButton)`
+  border: 2px solid ${props => props.theme.dark.primary};
+  background-color: ${props => props.theme.dark.primary};
+  color: ${props => props.theme.dark.text};
+`
+
 
 
