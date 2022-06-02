@@ -58,5 +58,18 @@ y'a bcq des classes : active, checked, foxes, before, aftre, firstline, firstlet
 
 
 # 8. animations :
++ annnimation reusibale to n componnet/ global scope
++ from..  styles.css to .. button.styles.js / mm fazet ema reusibale w flexible
+
+# 9. theming :
+
+
+
+> src > styles.css / copppppy paste ml app.css/logo
+  @media (
+  @keyframes
+
+> app.js
+
 # ------
 yarn start
