@@ -46,6 +46,13 @@
 <FancyButton as='a' >Fancy Button</FancyButton>
 
 # 6. Pseudo classes :
-
+like hover
+y'a bcq des classes : active, checked, foxes, before, aftre, firstline, firstletter...etc
+> styledcomponent>
+  &:hover {}
+  
+  
+# 7.passed props and adding attributes :
+ 
 # ------
 yarn start
